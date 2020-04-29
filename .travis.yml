@@ -13,7 +13,7 @@ halogenica/beautifulhugo.git themes/beautifulhugo
 deploy:
 provider: pages
 skip_cleanup: true
-GitHub_token: $GITHUB_TOKEN
+GitHub_token: 20f132edae88aec87983b15286f8b35c8ecd6018
 local_dir: public
 on:
 branch: master
